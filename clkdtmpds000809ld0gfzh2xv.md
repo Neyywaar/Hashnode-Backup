@@ -267,8 +267,6 @@ By linking CSS and JavaScript files to your HTML document, you can add additiona
 
 ---
 
----
-
 ## Find Me on:
 
 * **GitHub** - [github.com/Neyywaar](https://github.com/Neyywaar)
